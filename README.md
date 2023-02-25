@@ -2,7 +2,18 @@
 
 ## Project Usage Demo
 
-https://user-images.githubusercontent.com/31300168/207199031-e48baa96-8dc6-4cdb-aa17-074cfb75420a.mp4
+### Step 1: App set-up & words export
+
+[1](https://user-images.githubusercontent.com/43219473/221406034-deee1a19-660a-42ec-b30a-c73b732a2763.webm)
+
+### Step 2: Algorithm Execution
+
+[2](https://user-images.githubusercontent.com/43219473/221417661-d7581e20-1ee0-43fc-ac9c-888a9063a8ee.webm)
+
+### Step 3: Importing algorithm's output in the App
+
+[3](https://user-images.githubusercontent.com/43219473/221417977-a22faa24-fe20-4e8e-adf6-cfc59c2d2f99.webm)
+
 
 ## HC Applications
 
@@ -24,15 +35,3 @@ https://user-images.githubusercontent.com/31300168/207199049-d12fb7ca-4a6d-42ca-
 > Inspecting DTW as an optimization technique, and modifying it and its constraints to produce desirable results.
 
 https://user-images.githubusercontent.com/31300168/207199042-eaf87660-264f-43c7-be11-6a56ad390b05.mp4
-
-### #organization 
-
-> Organizing `app.py` in the Algorithm repository to be able to produce different outputs without repeating the complex calculations.
-
-https://user-images.githubusercontent.com/31300168/207199038-af430b17-cc67-48c3-b86f-05b692d79a4d.mp4
-
-### #designthinking 
-
-> Iteration was the only constant throughout the whole development process; but here I specifically focus on how I was choosing the best way to represent word location for highlighting in the App by first attempting the built-in solution, observing its failures and engineering a better one.
-
-https://user-images.githubusercontent.com/31300168/207198996-f4aeb356-4eb7-43c6-ae8b-91284ed353a2.mp4
